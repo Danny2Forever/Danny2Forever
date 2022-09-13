@@ -4,6 +4,7 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2Forever"/>
 <li>🧑🏽‍🏫I'm student at Benjamarachutit Ratchaburi school.</li>
 <li>👨🏽‍💻 I'm just interest in coding.</li>
+<li>🍵 I like matcha also some party 🥂 too.</li>
 
 <h1> My tools 👋 </h1>
 
