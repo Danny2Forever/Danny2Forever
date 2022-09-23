@@ -5,14 +5,10 @@
 <li>🍵 I like matcha also some party 🥂 too.</li>
 <li>🐍 I'm python enjoyer.</li>
 
-<h1> My tools 👋 </h1>
-
-<ul>
-<img style="height:100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png">
-<img style="height:100px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1280px-CSS3_and_HTML5_logos_and_wordmarks.svg.png">
-<img style="height:100px " src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png">
-<img style="height:200px " src="https://c.tenor.com/J4AqnCQ0NWUAAAAC/okayu-nekomata-okayu.gif"/>
-</ul>
+<h1> My tools 🛠️</h1>
+<li>Python <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></li>
+<li>HTML CSS <img width="27"src="https://designil.com/wp-content/uploads/2021/09/4_2048px-HTML5_logo_and_wordmark.svg.png"><img width="19"                               src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></li>
+<li>Javascript <img width="23" src="http://codingthailand.com/blog/wp-content/uploads/2016/05/javascript-736400_640-246x246.png"></li>
 
 # View my stat!
 <img style="width:500px" src="https://github-readme-stats.vercel.app/api?username=Danny2Forever&show_icons=true&theme=tokyonight&card_width=650"/>
