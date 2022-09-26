@@ -12,5 +12,5 @@
 
 #  📈 View my stat!
 <img style="width:500px" src="https://github-readme-stats.vercel.app/api?username=Danny2Forever&show_icons=true&theme=tokyonight&card_width=650"/>
-<img style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2Forever&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats">
+<img style="width:500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2Forever&hide=jupyter%20notebook&layout=compact&card_width=445)](https://github.com/anuraghazra/github-readme-stats">
 <img style="width:500px" src="https://github-readme-streak-stats.herokuapp.com/?user=Danny2Forever"/>
