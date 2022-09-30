@@ -3,7 +3,7 @@
 <li>🧑🏽‍🏫I'm student at Benjamarachutit Ratchaburi school.</li>
 <li>👨🏽‍💻 I'm just interest in coding.</li>
 <li>🍵 I like matcha also some party 🥂 too.</li>
-<li>🐍 I'm python enjoyer.</li>
+<li>🐍 I'm python enjoyer :shipit:.</li>
 
 <h1>🛠️ My tools</h1>
 <li>Python <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></li>
