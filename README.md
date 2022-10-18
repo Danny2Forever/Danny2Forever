@@ -3,7 +3,6 @@
 <details>
   <summary>█ ▆ ▄ ▁Listening▁ ▄ ▆ █ <a href="https://www.youtube.com/watch?v=ESx_hy1n7HA">Mili - world.execute(me);</a></summary> 
 
-  ### Some Code
   ```java
 package goddrinksjava;
 
