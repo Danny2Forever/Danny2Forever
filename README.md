@@ -1,7 +1,8 @@
 <a href="https://www.youtube.com/watch?v=oSjzMHQv-M8" target="_blank"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/0daa28709f13d67.png" align="right"></a>
 
-# Hi there
+# 👋 Hi there
 
+<p>Welcome to my Github !!!</p>
 <details>
   <summary>█ ▆ ▄ ▁Listening▁ ▄ ▆ █ <a href="https://www.youtube.com/watch?v=ESx_hy1n7HA">Mili - world.execute(me);</a></summary> 
 
@@ -153,12 +154,12 @@ public class GodDrinksJava {
 }
   ```
 </details>
-
-<p>Welcome to my Github !!!</p>
 <li>🧑🏽‍🏫I'm student at Benjamarachutit Ratchaburi school.</li>
 <li>👨🏽‍💻 I'm just interest in coding.</li>
 <li>🍵 I like matcha also some party 🥂 too.</li>
 <li>🐍 I'm python enjoyer :shipit:.</li>
+
+
 
 <h1>🛠️ My tools</h1>
 <li>Python <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></li>
