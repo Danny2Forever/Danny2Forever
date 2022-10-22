@@ -1,4 +1,10 @@
+<p align="center"> 
+  Visitor count<br>
+<img src="https://profile-counter.glitch.me/Danny2Forever/count.svg"/>
+</p>
+
 <a href="https://www.youtube.com/watch?v=oSjzMHQv-M8" target="_blank"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/0daa28709f13d67.png" align="right"></a>
+
 
 # 👋 Hi there
 
