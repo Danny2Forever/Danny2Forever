@@ -170,5 +170,6 @@ public class GodDrinksJava {
 <h1>🛠️ My tools</h1>
 <li>Python <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></li>
 <li>HTML CSS <img width="27"src="https://designil.com/wp-content/uploads/2021/09/4_2048px-HTML5_logo_and_wordmark.svg.png"><img width="19"                               src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></li>
-<li>Javascript <img width="23" src="http://codingthailand.com/blog/wp-content/uploads/2016/05/javascript-736400_640-246x246.png"></li><br>
-
+<li>Javascript <img width="23" src="http://codingthailand.com/blog/wp-content/uploads/2016/05/javascript-736400_640-246x246.png"></li>
+<li>C <img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></li>
+<li>C++ <img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></li>
