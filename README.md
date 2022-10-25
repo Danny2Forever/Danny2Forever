@@ -174,3 +174,6 @@ public class GodDrinksJava {
 <li>C <img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></li>
 <li>C++ <img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></li>
 <li>NodeJS<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></li>
+<br>
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Danny2Forever&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
