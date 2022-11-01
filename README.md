@@ -168,12 +168,16 @@ public class GodDrinksJava {
 
 
 <h1>🛠️ My tools</h1>
-<li>Python <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"></li>
-<li>HTML CSS <img width="27"src="https://designil.com/wp-content/uploads/2021/09/4_2048px-HTML5_logo_and_wordmark.svg.png"><img width="19"                               src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></li>
-<li>Javascript <img width="23" src="http://codingthailand.com/blog/wp-content/uploads/2016/05/javascript-736400_640-246x246.png"></li>
-<li>C <img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"></li>
-<li>C++ <img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></li>
-<li>NodeJS<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"></li>
+<div style="align:center;">
+<img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
+<img width="27"src="https://designil.com/wp-content/uploads/2021/09/4_2048px-HTML5_logo_and_wordmark.svg.png">
+<img width="19" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
+<img width="23" src="http://codingthailand.com/blog/wp-content/uploads/2016/05/javascript-736400_640-246x246.png">
+<img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
+<img width="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
+<img width="30" src="https://image.makewebeasy.net/makeweb/0/Yrhd97Z9N/DATA/Arduino_logo1.png">
+</div>
 <br>
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Danny2Forever&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
