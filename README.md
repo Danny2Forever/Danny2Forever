@@ -170,7 +170,7 @@ public class GodDrinksJava {
 <h1>🛠️ My tools</h1>
 <div style="align:center;">
 <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
-<img width="57"src="https://designil.com/wp-content/uploads/2021/09/4_2048px-HTML5_logo_and_wordmark.svg.png">
+<img width="70"src="https://designil.com/wp-content/uploads/2021/09/4_2048px-HTML5_logo_and_wordmark.svg.png">
 <img width="49" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
 <img width="53" src="http://codingthailand.com/blog/wp-content/uploads/2016/05/javascript-736400_640-246x246.png">
 <img width="50"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
