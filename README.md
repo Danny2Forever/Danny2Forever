@@ -182,3 +182,4 @@ public class GodDrinksJava {
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Danny2Forever&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2Forever&layout=compact&hide=jupyter%20notebook)](https://github.com/Danny2Forever/github-readme-stats)
