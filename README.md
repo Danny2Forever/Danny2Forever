@@ -163,7 +163,7 @@ public class GodDrinksJava {
 <li>🧑🏽‍🏫I'm student at Benjamarachutit Ratchaburi school.</li>
 <li>👨🏽‍💻 I'm just interest in coding.</li>
 <li>🍵 I like matcha also some party 🥂 too.</li>
-<li>🐍 I'm python enjoyer :shipit:.</li>
+<li>🐍 I'm use python for mainly :shipit:.</li>
 
 
 
