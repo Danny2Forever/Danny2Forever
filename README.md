@@ -1,5 +1,3 @@
-<!--START_SECTION:waka-->
-
 <p align="center"> 
   Visitor count<br>
 <img src="https://profile-counter.glitch.me/Danny2Forever/count.svg"/>
@@ -186,4 +184,5 @@ public class GodDrinksJava {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2Forever&layout=compact&hide=jupyter%20notebook)](https://github.com/Danny2Forever/github-readme-stats)
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
