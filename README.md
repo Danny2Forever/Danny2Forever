@@ -168,9 +168,9 @@ public class GodDrinksJava {
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/t3l3c45t3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="t3l3c45t3r" height="30" width="40" /></a>
-<a href="https://fb.com/theerapat tuanpromrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat tuanpromrat" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100021832331958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat tuanpromrat" height="30" width="40" /></a>
 <a href="https://instagram.com/thr_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thr_pt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/dannyiiforever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dannyiiforever" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCcMF4UCxs4z6ZxYGZpsFzCg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dannyiiforever" height="30" width="40" /></a>
 </p>
 
 <h1>🛠️ My tools</h1>
