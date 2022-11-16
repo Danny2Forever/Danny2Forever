@@ -165,21 +165,24 @@ public class GodDrinksJava {
 <li>🍵 I like matcha also some party 🥂 too.</li>
 <li>🐍 I'm use python for mainly :shipit:.</li>
 
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/t3l3c45t3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="t3l3c45t3r" height="30" width="40" /></a>
+<a href="https://fb.com/theerapat tuanpromrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat tuanpromrat" height="30" width="40" /></a>
+<a href="https://instagram.com/thr_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thr_pt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/dannyiiforever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dannyiiforever" height="30" width="40" /></a>
+</p>
 
 <h1>🛠️ My tools</h1>
 <div style="align:center;">
-<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
-<img width="70"src="https://designil.com/wp-content/uploads/2021/09/4_2048px-HTML5_logo_and_wordmark.svg.png">
-<img width="49" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png">
-<img width="53" src="http://codingthailand.com/blog/wp-content/uploads/2016/05/javascript-736400_640-246x246.png">
-<img width="50"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
-<img width="50"src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png">
-<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png">
-<img width="60" src="https://image.makewebeasy.net/makeweb/0/Yrhd97Z9N/DATA/Arduino_logo1.png">
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 </div>
 <br>
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Danny2Forever&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+# Here my stats !
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danny2Forever&layout=compact&hide=jupyter%20notebook)](https://github.com/Danny2Forever/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact" alt="danny2forever" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny2forever&show_icons=true&locale=en" alt="danny2forever" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danny2forever&" alt="danny2forever" /></p>
