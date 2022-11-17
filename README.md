@@ -194,7 +194,7 @@ public class GodDrinksJava {
 
 # Here my stats !
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact" alt="danny2forever" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="danny2forever" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny2forever&show_icons=true&locale=en" alt="danny2forever" /></p>
 
