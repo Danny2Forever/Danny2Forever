@@ -3,7 +3,7 @@
 <img src="https://profile-counter.glitch.me/Danny2Forever/count.svg"/>
 </p>
 
-<a href="https://www.youtube.com/watch?v=oSjzMHQv-M8" target="_blank"><img src="https://cdn.discordapp.com/attachments/686263337809608710/1043575182306066595/19bdba5c83c68ef0.gif" align="right"></a>
+<a href="https://www.youtube.com/watch?v=oSjzMHQv-M8" target="_blank"><img src="https://cdn.discordapp.com/attachments/993443274578743306/1043579102835265566/7191b49be7a0509c.gif" align="right"></a>
 
 
 # 👋 Hi there
