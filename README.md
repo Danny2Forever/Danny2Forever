@@ -194,9 +194,8 @@ public class GodDrinksJava {
 <br>
 
 # Here my stats !
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="danny2forever"/>
+
 <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/0daa28709f13d67.png" align="left">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="danny2forever"/></p>
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danny2forever&" alt="danny2forever" /></p>
