@@ -172,6 +172,7 @@ public class GodDrinksJava {
 <a href="https://www.facebook.com/profile.php?id=100021832331958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat tuanpromrat" height="30" width="40" /></a>
 <a href="https://instagram.com/thr_pt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thr_pt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCcMF4UCxs4z6ZxYGZpsFzCg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dannyiiforever" height="30" width="40" /></a>
+  
 </p>
 
 <h1>🛠️ My tools</h1>
@@ -195,7 +196,5 @@ public class GodDrinksJava {
 # Here my stats !
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="danny2forever" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danny2forever&show_icons=true&locale=en" alt="danny2forever" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danny2forever&" alt="danny2forever" /></p>
