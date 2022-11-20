@@ -167,6 +167,6 @@ public class GodDrinksJava {
 
 <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/0daa28709f13d67.png" align="left">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=radical" alt="danny2forever" width="520"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=radical" alt="danny2forever" width="480"/>
 <br><br><br><br><br><br><br><br><br><br><br>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danny2forever&theme=radical" alt="danny2forever" width="520"/>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=danny2forever&theme=radical" alt="danny2forever" width="480"/>
