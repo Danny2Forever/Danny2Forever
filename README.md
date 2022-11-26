@@ -1,3 +1,4 @@
+<img src="https://cdn.discordapp.com/attachments/627202547962347552/1046097821192953886/banner.png">
 <p align="center"> 
   Visitor count<br>
 <img src="https://profile-counter.glitch.me/Danny2Forever/count.svg"/>
