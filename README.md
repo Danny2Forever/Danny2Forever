@@ -164,7 +164,7 @@ public class GodDrinksJava {
 </div>
 <br>
 
-# Here my stats !
+# 📈 Here my stats !
 
 <a href="https://www.youtube.com/watch?v=H4JojJ7-wNM"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/0daa28709f13d67.png" align="left" ></a>
 
