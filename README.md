@@ -139,7 +139,7 @@ public class GodDrinksJava {
 <li>🌐 I like fullstack.</li>
 <br>
 
-<p>Connect with me :</p>
+<p>Connect with me </p>
 <p align="left">
 <a href="https://kaggle.com/t3l3c45t3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="t3l3c45t3r" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100021832331958" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theerapat tuanpromrat" height="30" width="40" /></a>
