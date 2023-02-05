@@ -136,7 +136,7 @@ public class GodDrinksJava {
 <li>👨🏽‍💻 I'm just interest in coding.</li>
 <li>🍵 I like matcha also some party 🥂 too.</li>
 <li>🐍 I'm use python for mainly :shipit:.</li>
-<li>🌐 I like fullstack.</li>
+
 <br>
 
 <p>Connect with me </p>
