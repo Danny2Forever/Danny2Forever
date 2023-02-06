@@ -170,7 +170,7 @@ public class GodDrinksJava {
 
 # 📈 Here my stats !
 
-<a href="https://www.youtube.com/watch?v=H4JojJ7-wNM"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/0daa28709f13d67.png" align="left" ></a>
+<a href="https://www.youtube.com/watch?v=W1z_z1bJSMo"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/0daa28709f13d67.png" align="left" ></a>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=danny2forever&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook&theme=radical" alt="danny2forever" width="380"/>
 
