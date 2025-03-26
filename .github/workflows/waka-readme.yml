@@ -11,13 +11,11 @@ jobs:
     name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master # PLEASE USE MASTER BRANCH
+      - uses: anmol098/waka-readme-stats@master  # PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "True"        # Show the list of active projects
-          SHOW_LINES_OF_CODE: "True"   # Show total lines of code
-          SHOW_LOC_CHART: "True"       # Show chart of lines of code over time
-          SHOW_OS: "True"              # Show operating system stats
-          SHOW_HOURS: "True"           # Show hours spent coding
-          LOCALE: "en"                 # Display stats in English
+          SHOW_PROJECTS: "False"         # Show active projects (set to False to hide)
+          SHOW_LINES_OF_CODE: "True"     # Show total lines of code
+          SHOW_LOC_CHART: "False"        # Show lines of code chart
+          LOCALE: "en"                   # Display stats in English
