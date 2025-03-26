@@ -13,6 +13,7 @@ This is a description of the project.
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-**WakaTime Stats**
+
 ![Lines of Code Chart](https://wakatime.com/badge/user/Danny2Forever.svg)
+
 <!--END_SECTION:waka-->
