@@ -1,10 +1,14 @@
-<!-- <img src="https://profile-counter.glitch.me/Danny2Forever/count.svg"/> -->
+
 <p align="center">
   <img src="banner.png">
 </p>
 
-<p align="center"> 
-  <img src="walking-mushroom.webp" width="945">
+<p align="center">
+  Visiter count
+</p>
+  
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Danny2Forever/count.svg"/>
 </p>
 
 # My States
@@ -79,3 +83,8 @@ C++                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 26/03/2025 12:36:03 UTC
 <!--END_SECTION:waka-->
+
+<p align="center"> 
+  <img src="walking-mushroom.webp" width="945">
+</p>
+
