@@ -14,9 +14,9 @@
 # My States
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-127-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-145-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-390.9%20thousand%20lines%20of%20code-blue)
 
@@ -59,13 +59,13 @@ Sunday                   160 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -81,7 +81,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2025 19:28:56 UTC
+ Last Updated on 27/03/2025 01:23:04 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
