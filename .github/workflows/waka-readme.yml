@@ -19,3 +19,15 @@ jobs:
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
           DEBUG: "True"  # Enable debugging
+
+      # Remove the "🐱 My GitHub Data" line from the README
+      - name: Remove "🐱 My GitHub Data" heading
+        run: |
+          sed -i '/🐱 My GitHub Data/d' README.md
+          
+      # Commit the changes back to the repo
+      - name: Commit changes to README
+        uses: EndBug/add-and-commit@v7
+        with:
+          message: 'Update README with WakaTime stats'
+          add: 'README.md'
