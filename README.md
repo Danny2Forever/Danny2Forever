@@ -21,7 +21,7 @@
 # My States
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-89%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -30,8 +30,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 124 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,7 +90,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2025 01:47:04 UTC
+ Last Updated on 25/07/2025 01:47:11 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
