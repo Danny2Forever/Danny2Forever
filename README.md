@@ -1,17 +1,5 @@
 
 <p align="center">
-  <img src="banner.png">
-</p>
-
-<p align="center">
-  Visiter count
-</p>
-  
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Danny2Forever/count.svg"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qgiw2ogctywitpjgfj8fu1nq5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" />
   </a>
