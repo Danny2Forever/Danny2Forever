@@ -54,13 +54,13 @@ Sunday                   160 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -76,7 +76,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2025 01:50:40 UTC
+ Last Updated on 08/08/2025 01:50:02 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
