@@ -19,8 +19,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 121 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -78,7 +76,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2025 01:47:34 UTC
+ Last Updated on 18/08/2025 01:48:09 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
