@@ -19,6 +19,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 121 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -52,15 +54,13 @@ Sunday                   160 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   2 hrs 25 mins       ███████████████░░░░░░░░░░   61.11 % 
-HTML                     1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   37.12 % 
-SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -76,7 +76,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 01:27:23 UTC
+ Last Updated on 21/08/2025 01:26:55 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
