@@ -22,17 +22,17 @@
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     9 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+HTML                     9 repos             ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
 
 
- Last Updated on 24/05/2026 03:37:57 UTC
+ Last Updated on 25/05/2026 03:52:03 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
