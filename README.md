@@ -9,6 +9,8 @@
 # My States
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -18,6 +20,12 @@
 🌙 Night                  440 commits         ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
 ```
 
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
 
 **I Mostly Code in HTML** 
 
@@ -32,7 +40,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 02:55:09 UTC
+ Last Updated on 28/07/2026 02:32:35 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
