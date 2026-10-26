@@ -9,35 +9,37 @@
 # My States
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-🌆 Daytime                488 commits         ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-🌃 Evening                967 commits         ████████████░░░░░░░░░░░░░   48.52 % 
-🌙 Night                  440 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+🌞 Morning                98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+🌆 Daytime                490 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+🌃 Evening                972 commits         ████████████░░░░░░░░░░░░░   48.60 % 
+🌙 Night                  440 commits         ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (2.0%)
+⏱ AI Coding Time: 35 mins (11.75%)
 
-✍️ 0 lines written by AI, 324 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 576 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 2,018,142 Input Tokens, 228,836 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $0.42 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 4 AI Sessions, 6 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 50 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 73 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -54,7 +56,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 03:27:06 UTC
+ Last Updated on 26/10/2026 03:29:28 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
