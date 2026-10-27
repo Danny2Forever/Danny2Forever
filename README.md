@@ -9,36 +9,36 @@
 # My States
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%207%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-🌆 Daytime                490 commits         ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-🌃 Evening                972 commits         ████████████░░░░░░░░░░░░░   48.60 % 
-🌙 Night                  440 commits         ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌞 Morning                98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+🌆 Daytime                490 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌃 Evening                975 commits         ████████████░░░░░░░░░░░░░   48.51 % 
+🌙 Night                  447 commits         ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (11.75%)
+⏱ AI Coding Time: 1 hr 46 mins (24.49%)
 
-✍️ 0 lines written by AI, 576 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 833 lines written by hand (0.0% AI-written)
 
-🔤 2,018,142 Input Tokens, 228,836 Output Tokens
+🔤 2,150,700 Input Tokens, 252,266 Output Tokens
 
-💵 $0.42 Estimated AI Cost This Week
+💵 $0.45 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 5 AI Sessions, 9 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 73 characters per prompt
+📝 Concise Prompter — average 58 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -56,7 +56,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 03:29:28 UTC
+ Last Updated on 27/10/2026 03:56:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
