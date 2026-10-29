@@ -9,38 +9,38 @@
 # My States
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2045%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
-🌆 Daytime                491 commits         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-🌃 Evening                978 commits         ████████████░░░░░░░░░░░░░   48.56 % 
-🌙 Night                  447 commits         ██████░░░░░░░░░░░░░░░░░░░   22.19 % 
+🌞 Morning                98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+🌆 Daytime                491 commits         ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+🌃 Evening                996 commits         ████████████░░░░░░░░░░░░░   48.75 % 
+🌙 Night                  458 commits         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (23.92%)
+⏱ AI Coding Time: 2 hrs 32 mins (20.75%)
 
-✍️ 0 lines written by AI, 1,119 lines written by hand (0.0% AI-written)
+✍️ 12 lines written by AI, 1,441 lines written by hand (0.83% AI-written)
 
 🔤 2,150,700 Input Tokens, 252,266 Output Tokens
 
 💵 $0.45 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 17 AI Prompts
+🧠 7 AI Sessions, 23 AI Prompts
 
-GPT                      1 lines             █████████████████████████   100.00 % 
+GPT                      13 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 53 characters per prompt
+🧑‍💻 Mostly Hands-On — 0.83% of written lines came from AI
+📝 Concise Prompter — average 56 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.94% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in HTML** 
@@ -56,7 +56,7 @@ Dart                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:17:37 UTC
+ Last Updated on 29/10/2026 04:38:12 UTC
 <!--END_SECTION:waka-->
 
 <p align="center"> 
