@@ -9,15 +9,15 @@
 # My States
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-354%20hrs%206%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-🌆 Daytime                603 commits         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-🌃 Evening                1154 commits        ████████████░░░░░░░░░░░░░   49.42 % 
-🌙 Night                  476 commits         █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+🌞 Morning                102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+🌆 Daytime                715 commits         ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+🌃 Evening                1593 commits        ██████████████░░░░░░░░░░░   55.20 % 
+🌙 Night                  476 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 ```
 
 
@@ -25,18 +25,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 24 mins       ████████████████████░░░░░   78.93 % 
-Other                    27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+TypeScript               6 hrs 4 mins        █████████████████████░░░░   83.81 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-TCG-Pocket-Binder        2 hrs 17 mins       █████████████░░░░░░░░░░░░   53.29 % 
-personal-website         1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
-personal_web             19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-MeloSync                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-TPB                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TCG-Pocket-Binder        3 hrs 55 mins       ██████████████░░░░░░░░░░░   54.13 % 
+personal-website         2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.88 % 
+TPB                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+personal_web             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 
 
