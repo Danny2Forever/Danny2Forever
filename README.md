@@ -9,15 +9,15 @@
 # My States
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2047%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                102 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-🌆 Daytime                559 commits         ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-🌃 Evening                1263 commits        █████████████░░░░░░░░░░░░   52.62 % 
-🌙 Night                  476 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+🌆 Daytime                559 commits         ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
+🌃 Evening                1265 commits        █████████████░░░░░░░░░░░░   52.66 % 
+🌙 Night                  476 commits         █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
 ```
 
 
@@ -25,17 +25,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 57 mins       █████████████████████░░░░   83.98 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript               6 hrs 57 mins       █████████████████████░░░░   83.17 % 
+Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+SQL                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 Git                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 
 🐱‍💻 Projects: 
-TCG-Pocket-Binder        4 hrs 48 mins       ██████████████░░░░░░░░░░░   57.97 % 
-personal-website         2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-TPB                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-personal_web             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+TCG-Pocket-Binder        4 hrs 50 mins       ██████████████░░░░░░░░░░░   57.82 % 
+personal-website         2 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
+TPB                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+personal_web             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 
 
